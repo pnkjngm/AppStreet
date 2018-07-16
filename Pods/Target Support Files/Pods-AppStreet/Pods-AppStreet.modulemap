@@ -1,0 +1,6 @@
+framework module Pods_AppStreet {
+  umbrella header "Pods-AppStreet-umbrella.h"
+
+  export *
+  module * { export * }
+}
